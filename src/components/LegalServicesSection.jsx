@@ -47,7 +47,7 @@ const LegalServicesSection = () => {
         <Title>Legal Services We Provide</Title>
         <ContentContainer>
           <LegalLeft>
-            <StandOut src="./images/standout.png" alt="" />
+            <StandOut src="./images/standout.jpg" alt="" />
           </LegalLeft>
 
           <LegalRight>
