@@ -49,7 +49,7 @@ const Button = styled.button`
 const MenuBtn = styled.span`
   display: none;
 
-  @media (max-width: 840px) {
+  @media (max-width: 767px) {
     display: block;
     cursor: pointer;
     font-size: 2rem;
