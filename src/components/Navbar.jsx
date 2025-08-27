@@ -5,6 +5,7 @@ import styled from "styled-components";
 
 const Nav = styled.div`
   width: 100%;
+  
   color: #ffffff;
   position: fixed;
   top: 0;
@@ -70,7 +71,7 @@ const MenuToggle = styled.button`
 `;
 
 const MobileMenu = styled.ul`
-  @media (max-width: 840px) {
+  @media (max-width: 767px) {
     display: flex;
     flex-direction: column;
 
